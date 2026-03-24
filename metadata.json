@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~W7n9hQ0rXC3bCaZu9FA6LpGRcvzv_K5ch9rL--pZDhcEqWXrKs0wl_yzTLZ0H_MOLdAxlWjAoFUKrrKkSoKBI6IJxmoTH6viFvGJK1vaobmzGzyKRPfmnBgJOaL97w0OEvR-P10-tHmc_z8uMHUpSakJ3OVybWsOck04lbfTpxB5",
+  "name": "StakeUp",
+  "description": "Non-custodial staking provider. High service, good support.",
+  "company_name": "StakeUp",
+  "company_website": "https://stakeup.tech"",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/landerosua/espresso-metadata/main/icon-14.png",
+      "@2x": "https://raw.githubusercontent.com/landerosua/espresso-metadata/main/icon-28.png",
+      "@3x": "https://raw.githubusercontent.com/landerosua/espresso-metadata/main/icon-42.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/landerosua/espresso-metadata/main/icon-24.png",
+      "@2x": "https://raw.githubusercontent.com/landerosua/espresso-metadata/main/icon-48.png",
+      "@3x": "https://raw.githubusercontent.com/landerosua/espresso-metadata/main/icon-72.png"
+    }
+  }
+}
